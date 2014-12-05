@@ -1,7 +1,10 @@
 NuitDeLInfo
 ===========
-
-This is a sample repository to host your source code.
+Members:
+kamwaw_b,
+lam_g,
+lugard_o,
+yang_w.
 
 ### TODO
 
